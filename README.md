@@ -2,7 +2,7 @@
 
 *Deep learning is driving advances in artificial intelligence that are changing our world.*
 
-![](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjz_9_n-s_gAhUD1qwKHbSFCHEQjRx6BAgBEAU&url=https%3A%2F%2Fblog.udacity.com%2F2017%2F01%2Fsiraj-raval-deep-learning-nanodegree-foundation-program.html&psig=AOvVaw3ih8gzTYr2qmJRymZ88LKd&ust=1550946151513853)
+![Udacity](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjz_9_n-s_gAhUD1qwKHbSFCHEQjRx6BAgBEAU&url=https%3A%2F%2Fblog.udacity.com%2F2017%2F01%2Fsiraj-raval-deep-learning-nanodegree-foundation-program.html&psig=AOvVaw3ih8gzTYr2qmJRymZ88LKd&ust=1550946151513853)
 
 - ###  Udacity Deep Learning Nanaodegree Foundation  below:
 	
